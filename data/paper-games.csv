@@ -1,0 +1,9 @@
+game,step,state,action,next_state,reward,terminated
+1,1,A,1,B,0,false
+1,2,B,0,END,1,true
+2,1,A,1,END,-1,true
+3,1,C,1,D,0,false
+3,2,D,1,E,0,false
+3,3,E,0,END,0,true
+4,1,A,1,B,0,false
+4,2,B,0,END,-1,true
