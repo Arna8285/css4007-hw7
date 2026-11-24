@@ -338,7 +338,3 @@ Part D collected 30,000 fixed-policy games, evaluated state values using three p
 
 The experiments show that state coverage affects value estimates and that the learned Q-learning policies performed better than the baseline in the tested evaluation runs.
 
-### Explain your results
-
-Address prediction versus control, terminal updates, usable aces, exploration,
-coverage, variation across seeds and whether the learned policy improved.
